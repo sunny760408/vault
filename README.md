@@ -1,4 +1,4 @@
-# vualt
+# vault
 
 使用Python呼叫Vault HTTP API實作
 1. 加密資料
